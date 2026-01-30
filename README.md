@@ -2,7 +2,7 @@
 
 A beautifully designed mobile chat application with real-time messaging, built with Firebase Authentication and Firestore. Features a clean, modern UI with Telegram-inspired design.
 
-![SimoneChat](screenshots/app_preview.png)
+![SimoneChat]
 
 ---
 
