@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SimoneChat</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Sign In</string>
+    <string name="register">Create Account</string>
+    <string name="logout">Logout</string>
+    <string name="send">Send</string>
+    <string name="type_message">Message...</string>
+    <string name="no_account">New here? Create an account</string>
+    <string name="have_account">Already have an account? Sign in</string>
+    <string name="login_anonymous">Continue as Guest</string>
+    <string name="chat_room">Global Chat</string>
+    <string name="loading">Loading...</string>
+    <string name="error_email">Please enter a valid email</string>
+    <string name="error_password">Password must be at least 6 characters</string>
+    <string name="error_login">Login failed. Please try again.</string>
+    <string name="error_register">Registration failed. Please try again.</string>
+    <string name="error_send_message">Failed to send message</string>
+    <string name="welcome_title">Welcome to SimoneChat</string>
+    <string name="welcome_subtitle">Connect with friends instantly</string>
+</resources>
