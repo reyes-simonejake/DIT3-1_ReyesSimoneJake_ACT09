@@ -307,25 +307,4 @@ If you encounter any issues:
 3. Check Android Studio Build output for errors
 4. Verify internet connection
 
----
 
-## 🚀 Future Enhancements
-
-Potential features to add:
-- [ ] Image/photo sharing
-- [ ] Voice messages
-- [ ] Group chats
-- [ ] User profiles with avatars
-- [ ] Push notifications
-- [ ] Typing indicators
-- [ ] Read receipts
-- [ ] Message reactions (emoji)
-- [ ] Dark mode
-- [ ] Message search
-- [ ] File attachments
-
----
-
-**SimoneChat** - Connect with friends instantly 💬✨
-
-*Made with passion by Simone Jake Reyes*
